@@ -31,6 +31,8 @@ obj/
 assets/
 gen/
 out/
+Debug.win32/
+proj.win32/
 .classpath
 .project
 .cproject

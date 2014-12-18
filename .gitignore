@@ -49,3 +49,5 @@ proj.win32/
 *.tar
 *.tgz
 *.gtgz
+proj.win32/LoadingDarkness.vcxproj
+proj.win32/LoadingDarkness.vcxproj.filters
